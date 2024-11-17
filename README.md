@@ -1,12 +1,12 @@
-Academia API
+  /Academia API/
 
 Academia API es una aplicación diseñada para ser la base de la estructura de una academia. En ella podremos ejecutar consultas y modificaciones en la base de datos.
 
-Modelo Entidad-Relacion
+  /Modelo Entidad-Relacion/
 
 Archivo correspondiente a "Modelo ER Academia" puedes encontralo en la pagina principal del repositorio.
 
-Configuracion
+  /Configuracion/
 
 1.Para acceder a la base de datos diseñada con MySql debe copiar los siguientes datos en application.properties:
 
@@ -28,7 +28,7 @@ spring.security.user.name=root
 
 spring.security.user.password=12345678
 
-Controladores y Rutas
+  /Controladores y Rutas/
 
 CicloController:
 
@@ -64,7 +64,7 @@ UnidadFormativaController:
 
 @DeleteMapping("/{id}")// Eliminar una unidad formativa por su ID
 
-Aplicaciones Futuras
+  /Aplicaciones Futuras/
 
 Gestión de Ciclos y Asignaturas Académicas:
 
@@ -110,7 +110,7 @@ Autenticación de Dos Factores: Implementar autenticación de dos factores para 
 
 Cumplimiento de Normativas: Asegurarte de que el sistema cumpla con normativas y leyes locales e internacionales sobre protección de datos.
 
-Recursos
+  /Recursos/
 
 Spring Boot Documentation: https://spring.io/projects/spring-boot
 
@@ -122,6 +122,6 @@ Spring Security Guide: https://spring.io/guides/topicals/spring-security-archite
 
 Google Slides [https://docs.google.com/presentation/d/16cmouXdsAI_8RjKVkiVbCsBsnSkwYbn859gs9CLTMQ0/edit?usp=sharing]
 
-Miembro del Equipo
+  /Miembro del Equipo/
 
 Manuel Rodriguez.
