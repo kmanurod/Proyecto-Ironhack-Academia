@@ -120,7 +120,7 @@ Postman Documentation: https://www.postman.com/
 
 Spring Security Guide: https://spring.io/guides/topicals/spring-security-architecture
 
-Google Slides [https://docs.google.com/presentation/d/16cmouXdsAI_8RjKVkiVbCsBsnSkwYbn859gs9CLTMQ0/edit?usp=sharing]
+Google Slides 
 
   /Miembro del Equipo/
 
